@@ -1,0 +1,6 @@
+@LabelApi_HostAddress = http://localhost:5089
+
+GET {{LabelApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
