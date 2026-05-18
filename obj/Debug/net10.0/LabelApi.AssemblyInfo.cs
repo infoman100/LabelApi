@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabelApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58de1b110b67de02f8ea4a401e59beb90b49bbc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c570a6c40b255efdbc185a262ea545c51cf33c51")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabelApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabelApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
